@@ -29,7 +29,18 @@ To run this project you need Unity version 2018.4 or higher.
 ## Usage
 ![Object_SpawnerImage](https://user-images.githubusercontent.com/73479696/165831260-7f9990ad-1dbd-4809-84f1-6bd95a66f60c.jpg)
 
-
+This tool works extremely easy.  <br />
+1 - Change name of Parent object (Parent object in this case includes all spawned objects, this makes Hierarchy less filled). <br />
+2 - Drag here parent for spawned objects.  <br />
+3 - Set base objects name. For example "Potato", so first spawned object will have name "Potato0", second "Potato1" and so on. <br />
+4 - Set object current id, this id by default is 0 and every spawned object it increases, so postfix will be 0, 1, 2 etc. <br />
+5 - Set scale for every spawned object.  <br />
+6 - Change size of area objects spawn in. <br />
+7 - Drag here object you whant to spawn. <br />
+8 - Change type of spawn Quad, Circle, Box, etc.  <br />
+9 - Create parent for all objects. It automatically set it in parent object field (2). <br />
+10 - Change how many objects to spawn. <br />
+11 - Objects spawn button. <br />
 ## License
 Unity ObjectSpawner licensed under the MIT License, see LICENSE for more information.
 

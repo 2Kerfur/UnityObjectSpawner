@@ -6,6 +6,7 @@ Simple object spawner tool for unity
 * [About](#about)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Examples](#examples)
 * [License](#license)
 
 ## About
@@ -41,8 +42,7 @@ This tool works extremely easy.  <br />
 9 - Create parent for all objects. It automatically set it in parent object field (2). <br />
 10 - Change how many objects to spawn. <br />
 11 - Objects spawn button. <br />
-
-### Examples 
+## Examples 
 <br /> QUAD spawn type <br />
 ![image](https://user-images.githubusercontent.com/73479696/165950291-ba45a6bc-2d15-49dd-a735-3233ae30126e.png)
 <br /> CIRCLE spawn type <br />

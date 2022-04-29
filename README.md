@@ -41,6 +41,16 @@ This tool works extremely easy.  <br />
 9 - Create parent for all objects. It automatically set it in parent object field (2). <br />
 10 - Change how many objects to spawn. <br />
 11 - Objects spawn button. <br />
+
+### Examples 
+<br /> QUAD spawn type <br />
+![image](https://user-images.githubusercontent.com/73479696/165950291-ba45a6bc-2d15-49dd-a735-3233ae30126e.png)
+<br /> CIRCLE spawn type <br />
+![image](https://user-images.githubusercontent.com/73479696/165951762-fa166aa6-5c9f-4adb-b58f-b8dfbf662149.png)
+<br /> CUBE spawn type <br />
+![image](https://user-images.githubusercontent.com/73479696/165951845-717f84c7-9264-496e-934f-03c404e13f50.png)
+<br /> SPHERE spawn type <br />
+![image](https://user-images.githubusercontent.com/73479696/165951949-b823cc2a-b798-4d40-b147-31d7f9016aa4.png)
 ## License
 Unity ObjectSpawner licensed under the MIT License, see LICENSE for more information.
 

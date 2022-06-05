@@ -1,6 +1,8 @@
 # Unity ObjectSpawner
 Simple object spawner tool for unity
 
+[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+
 ![image](https://user-images.githubusercontent.com/73479696/165824474-42bc6d21-9142-4182-8928-dc9cd2f582e0.png)
 ## Info
 * [About](#about)
